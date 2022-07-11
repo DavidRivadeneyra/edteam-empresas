@@ -33,8 +33,10 @@ p {
 	margin: 0;
 }
 
-button {
+button,
+a {
 	font-family: Manrope, sans-serif;
+	text-description: none;
 }
 
 .content-center {
