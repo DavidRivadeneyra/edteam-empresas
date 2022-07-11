@@ -1,0 +1,39 @@
+.bg-table {
+	height: 47px;
+}
+
+.table-items {
+	display: none;
+}
+
+.bar-complete {
+	display: none;
+}
+
+.icon-check {
+	display: none;
+}
+
+.icon-tech {
+	display: none;
+}
+
+.item-job {
+	display: none;
+}
+
+.icon-cargo {
+	display: none;
+}
+
+.item-avatar {
+	display: none;
+}
+
+.graphic-item {
+	display: none;
+}
+/* 
+.svg-content {
+	width: 700px;
+} */
